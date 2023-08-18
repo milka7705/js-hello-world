@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+//console.log("Hello there");
+//console.log"wont work ";
+//console.log(still wont work);
+//console.log('this works"')
+//console.log(27)  39
+//console.log(27+12)  39
+//console.log(4+4, 'Raven "Nevermore"')
+console.log(4+4.4, 'Raven "Nevermore"', "add something more", 1%4)
 
 /*  
 Next, PLAY! 
